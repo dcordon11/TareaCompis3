@@ -1,0 +1,7 @@
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\obj\Debug\Tarea3Compis.csproj.AssemblyReference.cache
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\obj\Debug\Tarea3Compis.csproj.CoreCompileInputs.cache
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\bin\Debug\Tarea3Compis.exe.config
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\bin\Debug\Tarea3Compis.exe
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\bin\Debug\Tarea3Compis.pdb
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\obj\Debug\Tarea3Compis.exe
+C:\Users\dcord\Desktop\ED2\Tarea3Compis\Tarea3Compis\Tarea3Compis\obj\Debug\Tarea3Compis.pdb

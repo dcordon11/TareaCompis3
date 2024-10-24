@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\parserlr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\parserlr1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\analizadorsintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\analizadorsintactico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\lexema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\lexema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|c:\\users\\dcord\\desktop\\ed2\\tarea3compis\\tarea3compis\\tarea3compis\\analizadorlexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C55363-91C2-4F6B-A4CF-C917C9F54525}|Tarea3Compis\\Tarea3Compis.csproj|solutionrelative:tarea3compis\\analizadorlexico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Archivo.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\Archivo.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Archivo.cs",
+              "RelativeToolTip": "Tarea3Compis\\Archivo.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:33:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParserLR1.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\ParserLR1.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\ParserLR1.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\ParserLR1.cs",
+              "RelativeToolTip": "Tarea3Compis\\ParserLR1.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAASwHABAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:23:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalizadorSintactico.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\AnalizadorSintactico.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\AnalizadorSintactico.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\AnalizadorSintactico.cs",
+              "RelativeToolTip": "Tarea3Compis\\AnalizadorSintactico.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAYwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:17:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lexema.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Lexema.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\Lexema.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Lexema.cs",
+              "RelativeToolTip": "Tarea3Compis\\Lexema.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:16:22.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalizadorLexico.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\AnalizadorLexico.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\AnalizadorLexico.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\AnalizadorLexico.cs",
+              "RelativeToolTip": "Tarea3Compis\\AnalizadorLexico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:15:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea3Compis\\Program.cs",
+              "ToolTip": "C:\\Users\\dcord\\Desktop\\ED2\\Tarea3Compis\\Tarea3Compis\\Tarea3Compis\\Program.cs",
+              "RelativeToolTip": "Tarea3Compis\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:27:54.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
